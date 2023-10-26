@@ -1,5 +1,4 @@
-
-let appetisers =  [
+ [
     {
       "name": "Caprese Salad",
       "description": "Fresh mozzarella cheese, ripe tomatoes, and basil leaves drizzled with balsamic reduction and olive oil."
@@ -84,3 +83,6 @@ let appetisers =  [
 
 
 
+
+
+  

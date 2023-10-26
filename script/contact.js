@@ -1,6 +1,6 @@
 
 
-document.getElementById("contactForm").addEventListener('submit',() => {
+document.getElementById("contactForm").addEventListener('submit',(event) => {
     let isValid = true;
 
     let username = document.getElementById('username').value;
