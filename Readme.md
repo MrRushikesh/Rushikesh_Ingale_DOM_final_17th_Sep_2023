@@ -84,8 +84,13 @@
 - <b>Signup:</b> Users can create an account using an array to store their credentials.
 - <b>Login:</b> Users can log in using static values stored in the system.
 
+<h4>Profile Section<h4>
 <img src="./assets/screenshot/profile.png">
+
+<h4>User_login Section<h4>
 <img src="./assets/screenshot/user_login.png">
+
+<h4>User_registration Section</h4>
 <img src="./assets/screenshot/user_reg.png">
 
 ## Project Structure -: 
