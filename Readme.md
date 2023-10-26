@@ -1,6 +1,8 @@
-
-
 # Restaurant Reservation System Documentation
+
+## Live Link -: 
+
+<a href="https://mrrushikesh.github.io/Rushikesh_Ingale_DOM_final_17th_Sep_2023/">Click Here</a>
 
 ## Introduction -: 
 
@@ -84,13 +86,13 @@
 - <b>Signup:</b> Users can create an account using an array to store their credentials.
 - <b>Login:</b> Users can log in using static values stored in the system.
 
-<h4>Profile Section<h4>
+<h3>Profile Section<h3>
 <img src="./assets/screenshot/profile.png">
 
-<h4>User_login Section<h4>
+<h3>User_login Section<h3>
 <img src="./assets/screenshot/user_login.png">
 
-<h4>User_registration Section</h4>
+<h3>User_registration Section</h3>
 <img src="./assets/screenshot/user_reg.png">
 
 ## Project Structure -: 
